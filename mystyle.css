@@ -1,0 +1,29 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: lightyellow;
+  margin-left: 20px;
+}
+
+#p1{
+  padding: 8px;
+  border: 10px solid #bc595f;
+  background:Tomato;
+  width: 696px;
+}
+{""}
+#p2{
+  padding: 8px;
+  border: 10px solid #05d1d0;
+  background:MediumSeaGreen;
+  width: 696px;
+}
+{""}
+#p3{
+  padding: 8px;
+  border: 10px solid #ff94d0;
+  background:Violet;
+  width: 696px;
+}
