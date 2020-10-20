@@ -12,18 +12,20 @@ h1 {
   border: 10px solid #bc595f;
   background:Tomato;
   width: 696px;
+  border-radius: 10px;
 }
-{""}
 #p2{
   padding: 8px;
   border: 10px solid #05d1d0;
   background:MediumSeaGreen;
   width: 696px;
+  border-radius: 10px;
 }
-{""}
 #p3{
   padding: 8px;
   border: 10px solid #ff94d0;
   background:Violet;
   width: 696px;
+  border-radius: 10px;
+
 }
